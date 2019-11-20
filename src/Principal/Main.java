@@ -12,6 +12,8 @@ package Principal;
 public class Main {
     public static void main(String[] args) {
         System.out.println("PEDRO LUCCA");
+        
+        System.out.println("Manel");
     }
     
 }
